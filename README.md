@@ -90,3 +90,5 @@ python3 github_activity.py username # linux / macOs
 python github_activity.py username # windows
 
 # Correct me if i wrong, because i'm still learning
+# project url
+https://github.com/Agus1783/GitHub-User-Activity.git
