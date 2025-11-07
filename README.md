@@ -89,6 +89,6 @@ pip install -r requirements.txt # Windows
 python3 github_activity.py username # linux / macOs
 python github_activity.py username # windows
 
-# Correct me if i wrong, because i'm still learning
 # project url
-https://roadmap.sh/projects/GitHub-User-Activity
+https://roadmap.sh/projects/github-user-activity
+# Correct me if i wrong, because i'm still learning
